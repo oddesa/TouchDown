@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		982565072A07994300982992 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982565062A07994300982992 /* Shop.swift */; };
 		984325E22A06089A00D653A2 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984325E12A06089A00D653A2 /* TitleView.swift */; };
 		984325E42A06093900D653A2 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984325E32A06093900D653A2 /* ProductModel.swift */; };
 		984325E62A0609D000D653A2 /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984325E52A0609D000D653A2 /* ProductItemView.swift */; };
@@ -44,6 +45,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		982565062A07994300982992 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 		984325E12A06089A00D653A2 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 		984325E32A06093900D653A2 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
 		984325E52A0609D000D653A2 /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
@@ -188,6 +190,7 @@
 			children = (
 				FABEBF902A057FB2001D9AD5 /* Constants.swift */,
 				98FDD9AD2A062AAA00E8150C /* CustomShape.swift */,
+				982565062A07994300982992 /* Shop.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				984325E42A06093900D653A2 /* ProductModel.swift in Sources */,
 				98FDD9B02A062CFC00E8150C /* RatingSizeDetailView.swift in Sources */,
 				FABEBFA52A058A95001D9AD5 /* FeaturedTabView.swift in Sources */,
+				982565072A07994300982992 /* Shop.swift in Sources */,
 				984325E82A060FBF00D653A2 /* BrandModel.swift in Sources */,
 				FABEBFA12A058986001D9AD5 /* Bundle+Extensions.swift in Sources */,
 				98F8D7A02A06319F00637763 /* QuantityFavouriteDetailView.swift in Sources */,
